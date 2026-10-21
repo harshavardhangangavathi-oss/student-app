@@ -8,4 +8,3 @@ This project demonstrates Git version control.
 - Student reports
 - Attendance Tracking
 - fee management
-tutorials
